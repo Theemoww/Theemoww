@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning to work in MPLAB X IDE
 - 🤔 I’m looking for help with SPI communication in MPLAB
 - ⚡ Fun fact: I'm Dutch
--->
